@@ -33,7 +33,7 @@ class Card implements Comparable<Card> {
     }
 }
 
-public class TwentyNinth {
+public class Problem29 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Number of cards: ");

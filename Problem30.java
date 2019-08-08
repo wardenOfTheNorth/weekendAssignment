@@ -28,7 +28,7 @@ class Box {
     }
 }
 
-public class Thirtieth {
+public class Problem30 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Number of boxes");
